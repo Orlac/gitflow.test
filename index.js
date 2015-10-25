@@ -1,6 +1,6 @@
 'use strict'
 
 (function(window){
-  alert('123456789');
+  console.log('123')
 })(window)
 
