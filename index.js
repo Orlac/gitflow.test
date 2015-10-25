@@ -1,6 +1,6 @@
 'use strict'
 
 (function(window){
-  alert();
+  alert('123456789');
 })(window)
 
